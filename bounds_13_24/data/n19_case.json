@@ -1,0 +1,11 @@
+{
+  "n": 19,
+  "r": "0.3327",
+  "u": "0.25199299",
+  "v": "0.97244295",
+  "R": "1.496107531",
+  "delta": "0.00868393",
+  "angle_lower": "-0.525",
+  "overlap_partition": "n19_overlap.json.gz",
+  "cutoff_partition": "n19_cutoff.json.gz"
+}
